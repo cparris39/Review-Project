@@ -53,3 +53,7 @@ div.gallery {
     display: table;
     clear: both;
   }
+
+  .two{
+    background-color: bisque;
+  }
